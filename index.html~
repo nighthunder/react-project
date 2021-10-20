@@ -1,0 +1,11 @@
+CTYPE html>
+
+<html>
+
+	<body>
+		<div data-js="App"></div>
+		<script src="/dist/bundle.js"></script>
+	</body>
+
+</html>
+
