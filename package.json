@@ -33,15 +33,5 @@
   "bugs": {
     "url": "https://github.com/nighthunder/react-project/issues"
   },
-  "babel": {
-    "presets": [
-      [
-        "react-app",
-        {
-          "runtime": "automatic"
-        }
-      ]
-    ]
-  },
   "homepage": "https://github.com/nighthunder/react-project#readme"
 }

@@ -1,12 +1,12 @@
 'use strict'
 
-var React = require('react')
-var createReactClass = require('create-react-class');
+import React from 'react'
+import createClass from 'create-react-class';
 
-var Title = createReactClass({
+var Title = createClass ({
 	render: function(){
-		React.createElement('h1', null, 'Título')
+		return <h1>Titulo</h1>
 	}
 })
 
-module.exports = Title
+export default Title
